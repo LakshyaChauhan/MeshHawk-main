@@ -62,12 +62,12 @@ This will perform the following steps:
 
 ## Contributors
 
-[Akshat Pandey](https://github.com/Akshat-Pandey16) <br>
-[Sanskar Dwivedi](https://github.com/Knighthawk-Leo) <br>
-[Yash Sakre](https://github.com/Yash-Sakre) <br>
-[Ranjit Ranjan](https://github.com/ranjit7858)<br>
-[Jayash Tripathi](https://github.com/JayashTripathy)<br>
-[Poorva Diwan](https://github.com/poorvadiwan)<br>
+[Lakshya Chauhan](https://github.com/Akshat-Pandey16) <br>
+[Rajat Singh](https://github.com/Knighthawk-Leo) <br>
+[Reek Chatterjee](https://github.com/Yash-Sakre) <br>
+[Shagun Gupta](https://github.com/ranjit7858)<br>
+[Ankita](https://github.com/JayashTripathy)<br>
+
 
 
 ## Contribution
